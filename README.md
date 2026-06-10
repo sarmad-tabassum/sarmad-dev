@@ -35,17 +35,17 @@
 
 <!-- Live Visual Analytics & Language Graphs -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Sarmad's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&langs_count=6" alt="Sarmad's Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarmad-tabassum&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Sarmad's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad-tabassum&layout=compact&theme=tokyonight&langs_count=6" alt="Sarmad's Top Languages" height="180px" />
 </p>
 
 <!-- Activity Metric Graph Sticker -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight&background=1a1b26&fire=ff6600" alt="Sarmad's GitHub Streak" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-tabassum&theme=tokyonight&background=1a1b26&fire=ff6600" alt="Sarmad's GitHub Streak" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarmad-tabassum&theme=tokyonight" alt="Activity Graph" width="90%" />
 </p>
 
 ---
