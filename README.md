@@ -50,9 +50,13 @@
 
 ---
 
-<!-- Animated Footer Sticker -->
+<!-- New Super Stable Animated Footer Graphic Sticker -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=100&section=footer&text=Keep%20Coding%20🚀&fontSize=20" alt="Footer Sticker" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBkMGd4cjU3dDRuZ2NpZmp2M3c5dnI4b3YxZ3Bnb2wxeG13cTlsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Footer Coding Line">
+</p>
+
+<p align="center">
+  ✨ <i>Thanks for visiting! Keep scrolling, keep learning, keep coding.</i> ✨
 </p>
 
 </div>
